@@ -219,7 +219,7 @@ export default function HomePage() {
                   color: "#fff",
                   maxWidth: "75%",
                 }}>
-                  Yes! Let's catch up 😄
+                  Yes! Let&apos;s catch up 😄
                 </div>
               </div>
 
@@ -253,7 +253,7 @@ export default function HomePage() {
                   color: "#fff",
                   maxWidth: "75%",
                 }}>
-                  Can't wait! ❤️
+                  Can&apos;t wait! ❤️
                 </div>
               </div>
             </div>
